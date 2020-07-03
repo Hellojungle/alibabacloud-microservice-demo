@@ -5,16 +5,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.alibabacloud.hipsershop</groupId>
-    <artifactId>alibabacloud-microservice-demo</artifactId>
+    <artifactId>productservice</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <modules>
-        <module>src/cartservice</module>
-        <module>src/productservice</module>
-        <module>src/frontend</module>
+        <module>productservice-api</module>
+        <module>productservice-provider</module>
     </modules>
 
     <packaging>pom</packaging>
-    <description>The demo to showcase EDAS micro service</description>
+    <description>The demo provider to showcase Spring Cloud Alibaba</description>
 
     <build>
         <plugins>

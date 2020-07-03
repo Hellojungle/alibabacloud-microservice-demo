@@ -1,4 +1,0 @@
-apiVersion: V1
-kind: AppPackage
-spec:
-  packageType: FatJar
