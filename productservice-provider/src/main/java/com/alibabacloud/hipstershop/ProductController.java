@@ -19,7 +19,7 @@ public class ProductController {
     public ProductController() {
         Product p1 = new Product();
         p1.setId("OLJCESPC7Z");
-        p1.setName("Air Jordan 1 Mid SE 白绿 GS");
+        p1.setName("[New Version] Air Jordan 1 Mid SE 白绿 GS");
         p1.setDescription("Air Jordan 1于1985年推出，是耐克第一双以乔丹名字命名的篮球鞋，正是这双鞋，开启了一个时代。");
         p1.setPicture("/img/products/1.png");
         p1.setPrice(1559);
